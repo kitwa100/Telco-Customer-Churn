@@ -24,8 +24,14 @@ This dataset contains customer-level records from a telecommunications company. 
 1. Do subscribers who sign up for add-ons like Online Security, Tech Support, or Online Backup stay longer?
 2. Is there a high churn rate among customers who only have Fiber Optic internet versus DSL?
 3. Do customers using Streaming TV or Streaming Movies demonstrate higher brand loyalty?
+4. 
 
 ### c. Financial Impact & Contract Optimization
+1. What is the total revenue lost from monthly charges due to departing customers?
+2. Are customers using paperless billing or electronic checks more prone to leaving than those on automatic credit card payments?
+3. How significantly does a one-year or two-year contract reduce churn compared to a month-to-month plan?
+   
 ## Insights
+
 ## Recommendations
 
