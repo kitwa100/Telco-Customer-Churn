@@ -67,7 +67,13 @@ Churn Rate by Demographics
 <img width="900" height="800" alt="sub_1" src="https://github.com/user-attachments/assets/66542262-45ef-49fc-b82b-d987f1e574fd" />
 
 
+### Services & Product Performance
 
+<img width="1000" height="800" alt="sub_2" src="https://github.com/user-attachments/assets/526f048d-7fed-4611-8474-5f8a5a74f283" />
+
+
+### Financial Impact & Contract Optimization
+<img width="900" height="900" alt="sub_3" src="https://github.com/user-attachments/assets/0f70f9e5-19e6-4f22-8a95-989993c513df" />
 
 
 ## Recommendations
