@@ -43,7 +43,9 @@ The IBM Telco Customer Churn Dataset highlights a 26.5% overall customer churn r
 5. Price Sensitivity vs. Fiber Optic Dissatisfaction: Fiber optic internet subscribers show a high churn rate of 41.9% (compared to 19.6% for DSL), often linked to high monthly bills (80–120 tier showing a 37.9% churn rate) that fail to deliver perceived value or reliability. 
 6. Data Quality & Pipeline Issues: Raw operational records often feature missing values in billing fields (such as string formatting errors in TotalCharges for new accounts) and severe target-class imbalance, complicating data engineering and predictive modeling efforts. 
 
-
-
 ## Recommendations
-
+1. Improve onboarding and retention activity during the first six months.
+2. Encourage eligible Month-to-Month customers to move to longer contracts.
+3. Investigate Fiber Optic pricing, service quality, and support experience.
+4. Strengthen device offers, data plans, and competitor-focused retention campaigns.
+5. Improve customer-support interactions through service training.
