@@ -13,7 +13,7 @@ This dataset contains customer-level records from a telecommunications company. 
 
 ## Exploratory Data Analysis
 ### a. Customer Retention & Churn Dynamics
-1. What percentage of customers left the company within the last month?
+1. What percentage of customers that left the company within the last month?
 2. How do demographics  (senior_citizens and dependents) impact a subscriber's tendency to switch providers?
 3. Do new customers churn at a higher rate than long-term subscribers?
 4. How much higher is the churn velocity for customers on Month-to-month contracts compared to One-year or Two-year agreements?
