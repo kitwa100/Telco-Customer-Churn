@@ -43,22 +43,30 @@ The IBM Telco Customer Churn Dataset highlights a 26.5% overall customer churn r
 5. Price Sensitivity vs. Fiber Optic Dissatisfaction: Fiber optic internet subscribers show a high churn rate of 41.9% (compared to 19.6% for DSL), often linked to high monthly bills (80–120 tier showing a 37.9% churn rate) that fail to deliver perceived value or reliability. 
 6. Data Quality & Pipeline Issues: Raw operational records often feature missing values in billing fields (such as string formatting errors in TotalCharges for new accounts) and severe target-class imbalance, complicating data engineering and predictive modeling efforts.
 
-Total Customers: 7043
-Churned Customers: 1869
-Baseline Churn Rate: 26.54%
+| **Total Customers:** 7043 |
+| --- |
+| **Churned Customers:** 1869 |
+| **Baseline Churn Rate:** 26.54% |
+
 
 <img width="938" height="500" alt="%last_month" src="https://github.com/user-attachments/assets/4003c2e3-2847-4184-8213-e7d39f6e83c5" />
 
 
---- Churn Rate by Demographics ---
-churn  senior_citizen dependents  Churn Rate (%)
-0                   0         No           29.60
-1                   0        Yes           16.05
-2                   1         No           32.64
-3                   1        Yes           19.78
+Churn Rate by Demographics 
+
+| churn | senior_citizen | dependents |Churn Rate (%) |
+| :--- | :---: | :---: | ---: |
+|0  |  0    |  No     |  29.60 |
+|1  |  0    |  Yes    |  16.05 |
+|2  | 1     |  No     |  32.64 |
+|3  | 1     |  Yes    |  19.78 |
+
+
 
 
 <img width="900" height="800" alt="sub_1" src="https://github.com/user-attachments/assets/66542262-45ef-49fc-b82b-d987f1e574fd" />
+
+
 
 
 
