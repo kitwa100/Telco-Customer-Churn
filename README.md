@@ -13,8 +13,16 @@
 This dataset contains customer-level records from a telecommunications company. It tracks a fictional telecommunications company's customer profiles to analyze retention and predict churn. Each row represents a single customer with service usage, contract details, billing information, and a binary churn label. The data is structured to track operational, financial, and behavioral health metrics. 
 
 ## Data sources
-
+- Project Jupyter notebook
+  
 ## Tools
+- excel
+- python
+- pandas
+- matplotlib
+- plotly express
+- Numpy
+- seaborn
 
 ## Data cleaning
 1. Cleaning columns
