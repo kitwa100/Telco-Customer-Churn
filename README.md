@@ -32,11 +32,10 @@ This dataset contains customer-level records from a telecommunications company. 
    
 ## Insights
 1. Overall churn rate: 26.54% (1,869 churned customers)
-2. Customers in their first 0–6 months have the highest churn rate: 53.33%
-3. Month-to-Month contracts have the highest churn rate at approximately 46%
-4. Fiber Optic customers have the highest churn rate at approximately 40.5%
-5. Credit Card customers have a lower churn rate than customers using Mailed Check or Bank Withdrawal
-6. Competition is the largest churn category, responsible for 45.0% of churned customers
+2. Customers in their first 19th months have the highest churn rate: 41.09%
+3. Month-to-Month contracts have the highest churn rate at approximately 28.0%
+4. Fiber Optic customers have the highest churn rate at approximately 27.78%
+5. Mailed Check customers have a lower churn rate than customers using Credit Card, Bank transfer or electric check
 
 | **Total Customers:** 7043 |
 | --- |
