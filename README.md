@@ -14,17 +14,16 @@ This dataset contains customer-level records from a telecommunications company. 
 ## Exploratory Data Analysis
 ### a. Customer Retention & Churn Dynamics
 1. What percentage of customers that left the company within the last month?
-2. How do demographics  (senior_citizens and dependents) impact a subscriber's tendency to switch providers?
+2. How do demographics impact a subscriber's tendency to switch providers?
 3. Do new customers churn at a higher rate than long-term subscribers?
 4. How much higher is the churn velocity for customers on Month-to-month contracts compared to One-year or Two-year agreements?
-5. Compared to Two-year agreements: Month-to-month churn is roughly 15.2 to 16.9 times higher (a difference of about 39.9 to 44.6 percentage points).
-6. Compared to One-year agreements with Month-to-month contract
+5. Compared to Two-year agreements: Month-to-month churn.
+6. Compared to One-year agreements with Month-to-month contract.
 
 ### b. Services & Product Performance
 1. Do subscribers who sign up for add-ons like Online Security, Tech Support, or Online Backup stay longer?
 2. Is there a high churn rate among customers who only have Fiber Optic internet versus DSL?
-3. Do customers using Streaming TV or Streaming Movies demonstrate higher brand loyalty?
-4. 
+3. Do customers using Streaming TV or Streaming Movies demonstrate higher brand loyalty? 
 
 ### c. Financial Impact & Contract Optimization
 1. What is the total revenue lost from monthly charges due to departing customers?
@@ -32,31 +31,12 @@ This dataset contains customer-level records from a telecommunications company. 
 3. How significantly does a one-year or two-year contract reduce churn compared to a month-to-month plan?
    
 ## Insights
-### Problem statement
-This telecommunications company faces a signi cant customer retention challenge with 1,869 customers churning out of 7,043 total customers , representing a 26.54% churn rate . The  nancial impact is substantial, with $2,862,927 in revenue loss from churned customers, representing 17.8% of the company's total revenue base of $16.1 million.
-###  key business challenges
-The primary business challenge highlighted by the Telco customer churn dataset is high customer churn (around 26.5% of the subscriber base leaving), which directly drains recurring monthly revenue.
-- Key business and operational drivers behind this challenge, as revealed through the dataset, include:
-
-1. Contract Commitment Structure
-
-• Month-to-Month Contracts: Customers on month-to-month plans exhibit significantly higher churn rates than those locked into one-year or two-year contracts.
-• Lack of Long-Term Lock-in: The absence of binding agreements makes it easy for subscribers to switch providers at the first sign of friction or better competitor pricing.
-
-2. Early-Tenure Attrition
-
-• First 1–6 Months: Churn peaks heavily during the initial months of the customer lifecycle.
-• Onboarding Gaps: New subscribers who do not quickly experience value or smooth integration are prone to leaving before covering their initial acquisition costs.
-
-3. Service Bundle Gaps (Value-Add Deficits)
-
-• Missing Support Services: Customers lacking add-ons like Tech Support or Online Security churn at nearly double the rate of protected subscribers.
-• Bare-Bones Subscriptions: Subscribers with minimal service packages experience lower "stickiness" or platform integration, making them more vulnerable to leaving.
-
-4. Billing and Payment Friction
-
-• Paperless Billing & Payment Methods: Specific billing configurations and electronic payment types correlate with elevated drop-off rates.
-• Perceived Cost vs. Value: Higher monthly charges paired with perceived internal service deficiencies accelerate customer departure.
+1. Overall churn rate: 26.54% (1,869 churned customers)
+2. Customers in their first 0–6 months have the highest churn rate: 53.33%
+3. Month-to-Month contracts have the highest churn rate at approximately 46%
+4. Fiber Optic customers have the highest churn rate at approximately 40.5%
+5. Credit Card customers have a lower churn rate than customers using Mailed Check or Bank Withdrawal
+6. Competition is the largest churn category, responsible for 45.0% of churned customers
 
 | **Total Customers:** 7043 |
 | --- |
